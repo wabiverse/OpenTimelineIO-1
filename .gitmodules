@@ -4,6 +4,3 @@
 [submodule "src/deps/rapidjson"]
 	path = src/deps/rapidjson
 	url = https://github.com/Tencent/rapidjson.git
-[submodule "src/deps/Imath"]
-	path = src/deps/Imath
-	url = https://github.com/wabiverse/Imath
